@@ -1,0 +1,30 @@
+{
+  "name": "code-challenge-javascript-day-1",
+  "version": "1.0.0",
+  "description": "devc benin code challenge day 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-1.git"
+  },
+  "keywords": [
+    "javascript",
+    "twofer",
+    "devc-benin",
+    "code",
+    "challenge"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-1/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-1#readme",
+  "dependencies": {
+    "jest": "^25.4.0"
+  }
+}
